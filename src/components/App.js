@@ -1,7 +1,7 @@
 
 import React,{useState} from "react";
 import './../styles/App.css';
-import Option from './option.js';
+import Option from './Option.js';
 
 const App = () => {
   let [option,setOption] = useState('');
